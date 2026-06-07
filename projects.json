@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Social Media Downloader",
+    "desc": "Download videos using FastAPI",
+    "tech": "Python, FastAPI"
+  },
+  {
+    "title": "Chatbot API",
+    "desc": "AI chatbot backend",
+    "tech": "Python"
+  },
+  {
+    "title": "Business Website",
+    "desc": "Responsive website",
+    "tech": "HTML, CSS, JS"
+  }
+]
