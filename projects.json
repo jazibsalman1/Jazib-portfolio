@@ -1,17 +1,37 @@
 [
   {
-    "title": "Social Media Downloader",
-    "desc": "Download videos using FastAPI",
-    "tech": "Python, FastAPI"
+    "title": "Quiz Game",
+    "desc": "Interactive quiz application",
+    "tech": "Python, FastAPI",
+    "link": "https://quiz-game-a4tv.onrender.com/"
   },
   {
-    "title": "Chatbot API",
-    "desc": "AI chatbot backend",
-    "tech": "Python"
+    "title": "Chatbot",
+    "desc": "AI chatbot using Tinyllama",
+    "tech": "Python , hugging face",
+    "link": "https://huggingface.co/spaces/jazib1341/AIchatbot"
   },
   {
-    "title": "Business Website",
-    "desc": "Responsive website",
-    "tech": "HTML, CSS, JS"
+    "title": "blog Markdown",
+    "desc": "Responsive website for blogging",
+    "tech": "Python, FastAPI",
+    "link": "https://blog-markdown.onrender.com/"
+  },
+  {
+    "title": "Health-Care-Appointment-System ",
+    "desc": "A healthcare appointment system built with FastAPI and MongoDB",
+    "tech": "Python, FastAPI",
+    "link": "https://health-care-appointment-system.onrender.com/"
+  },
+  {
+    "title": "Expense-Tracker",
+    "desc": "A simple expense tracking application",
+    "tech": "https://expense-tracker-mglu.onrender.com/"
+  },
+  {
+    "title": "Weather-Now",
+    "desc": "A weather application with real-time updates",
+    "tech": "Python, FastAPI",
+    "link": "https://weather-now-1-zczl.onrender.com/"
   }
 ]
