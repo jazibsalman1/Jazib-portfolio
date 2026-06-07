@@ -82,7 +82,7 @@
         <div class="skill-card">HTML</div>
         <div class="skill-card">CSS</div>
         <div class="skill-card">JavaScript</div>
-        <div class="skill-card">Git</div>
+        
         <div class="skill-card">GitHub</div>
         <div class="skill-card">SQLite</div>
     </div>
@@ -99,8 +99,9 @@
             <h3>{{ project.title }}</h3>
             <p>{{ project.desc }}</p>
             <small>{{ project.tech }}</small> <br><br>
-            <a href="{{ project.link }}" target="_blank">Visit</a>
-        </div>
+<a href="{{ project.link }}" target="_blank" class="visit-btn">
+    Visit
+</a>   </div>
         {% endfor %}
 
     </div>
